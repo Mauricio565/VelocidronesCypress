@@ -1,0 +1,19 @@
+{
+  "name": "velocidrones",
+  "version": "1.0.0",
+  "description": "Automatizacion del sistema de velocidrones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "velocidrones"
+  ],
+  "author": "Mauricio",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.7.0"
+  }
+}
